@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Q234787/Form1.cs) (VB: [Form1.vb](./VB/Q234787/Form1.vb))
+* [Program.cs](./CS/Q234787/Program.cs) (VB: [Program.vb](./VB/Q234787/Program.vb))
+<!-- default file list end -->
 # How to manually calculate the week numbers for the DateEdit
 
 
